@@ -1,0 +1,15 @@
+# IDE
+.idea/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Optional: Common additional ignores
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+__pycache__/
+*.pyc
